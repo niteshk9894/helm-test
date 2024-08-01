@@ -8,6 +8,6 @@ entries:
     name: social-distancing
     type: application
     urls:
-    - https://raw.githubusercontent.com/niteshk9894/helm-test/main/mct.tgz
+    - https://raw.githubusercontent.com/niteshk9894/helm-test/main/mct-helm-chart-0.1.0.tgz
     version: "1.0.0"
 generated: "2021-05-26T14:59:11.656550034-04:00"
